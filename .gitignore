@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+dist/
+build/
+*.xlsx
+!examples/expected-report.xlsx
+examples/invoices/*.docx
+.DS_Store
